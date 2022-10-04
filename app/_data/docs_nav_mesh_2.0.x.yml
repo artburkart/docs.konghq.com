@@ -78,4 +78,6 @@ items:
         url: /features/ubi-images
       - text: Windows Support
         url: /features/windows
+      - text: Auditing
+        url: /features/access-audit
         generate: false
